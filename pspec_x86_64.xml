@@ -2,8 +2,8 @@
     <Source>
         <Name>rubyntlm</Name>
         <Packager>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Packager>
         <License>MIT</License>
         <PartOf>programming.ruby</PartOf>
@@ -19,79 +19,79 @@
 </Description>
         <PartOf>programming.ruby</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/build_info</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/extensions</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/.gitignore</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/.rspec</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/.travis.yml</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/CHANGELOG.md</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/Gemfile</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/LICENSE</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/README.md</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/Rakefile</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/examples/http.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/examples/imap.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/examples/smtp.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/lib/net/ntlm.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/lib/net/ntlm/blob.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/lib/net/ntlm/channel_binding.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/lib/net/ntlm/client.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/lib/net/ntlm/client/session.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/lib/net/ntlm/encode_util.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/lib/net/ntlm/exceptions.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/lib/net/ntlm/field.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/lib/net/ntlm/field_set.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/lib/net/ntlm/int16_le.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/lib/net/ntlm/int32_le.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/lib/net/ntlm/int64_le.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/lib/net/ntlm/message.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/lib/net/ntlm/message/type0.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/lib/net/ntlm/message/type1.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/lib/net/ntlm/message/type2.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/lib/net/ntlm/message/type3.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/lib/net/ntlm/security_buffer.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/lib/net/ntlm/string.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/lib/net/ntlm/target_info.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/lib/net/ntlm/version.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/lib/rubyntlm.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/rubyntlm.gemspec</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/blob_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/channel_binding_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/client/session_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/client_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/encode_util_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/field_set_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/field_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/int16_le_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/int32_le_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/int64_le_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/message/type0_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/message/type1_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/message/type2_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/message/type3_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/message_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/security_buffer_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/string_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/target_info_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/version_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/spec/spec_helper.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/spec/support/certificates/sha_256_hash.pem</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/spec/support/shared/examples/net/ntlm/field_shared.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/spec/support/shared/examples/net/ntlm/fieldset_shared.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/spec/support/shared/examples/net/ntlm/int_shared.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/rubyntlm-0.6.2/spec/support/shared/examples/net/ntlm/message_shared.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/specifications/rubyntlm-0.6.2.gemspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/build_info</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/extensions</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/.gitignore</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/.rspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/.travis.yml</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/CHANGELOG.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/Gemfile</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/LICENSE</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/README.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/Rakefile</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/examples/http.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/examples/imap.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/examples/smtp.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/lib/net/ntlm.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/lib/net/ntlm/blob.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/lib/net/ntlm/channel_binding.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/lib/net/ntlm/client.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/lib/net/ntlm/client/session.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/lib/net/ntlm/encode_util.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/lib/net/ntlm/exceptions.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/lib/net/ntlm/field.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/lib/net/ntlm/field_set.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/lib/net/ntlm/int16_le.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/lib/net/ntlm/int32_le.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/lib/net/ntlm/int64_le.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/lib/net/ntlm/message.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/lib/net/ntlm/message/type0.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/lib/net/ntlm/message/type1.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/lib/net/ntlm/message/type2.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/lib/net/ntlm/message/type3.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/lib/net/ntlm/security_buffer.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/lib/net/ntlm/string.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/lib/net/ntlm/target_info.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/lib/net/ntlm/version.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/lib/rubyntlm.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/rubyntlm.gemspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/blob_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/channel_binding_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/client/session_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/client_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/encode_util_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/field_set_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/field_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/int16_le_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/int32_le_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/int64_le_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/message/type0_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/message/type1_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/message/type2_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/message/type3_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/message_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/security_buffer_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/string_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/target_info_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm/version_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/spec/lib/net/ntlm_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/spec/spec_helper.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/spec/support/certificates/sha_256_hash.pem</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/spec/support/shared/examples/net/ntlm/field_shared.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/spec/support/shared/examples/net/ntlm/fieldset_shared.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/spec/support/shared/examples/net/ntlm/int_shared.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/rubyntlm-0.6.2/spec/support/shared/examples/net/ntlm/message_shared.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/specifications/rubyntlm-0.6.2.gemspec</Path>
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2018-03-23</Date>
+        <Update release="2">
+            <Date>2018-12-26</Date>
             <Version>0.6.2</Version>
             <Comment>Packaging update</Comment>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Update>
     </History>
 </PISI>

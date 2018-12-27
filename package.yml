@@ -1,6 +1,6 @@
 name       : rubyntlm
 version    : 0.6.2
-release    : 1
+release    : 2
 source     :
     - https://rubygems.org/downloads/rubyntlm-0.6.2.gem : be81d7cbe7042c3a582299d89f0b07ef142b9854d260b648b498ad49a7eecbdc
 license    : MIT
@@ -9,7 +9,7 @@ summary    : RubyGem - rubyntlm
 description: |
     Ruby/NTLM provides message creator and parser for the NTLM authentication.
 builddeps  :
-    - pkgconfig(ruby-2.3)
+    - pkgconfig(ruby-2.6)
 rundeps    :
     - ruby
 install    : |
